@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FilmyVerse/static/css/main.75447600.css",
+    "main.js": "/FilmyVerse/static/js/main.c994b6f4.js",
+    "index.html": "/FilmyVerse/index.html",
+    "main.75447600.css.map": "/FilmyVerse/static/css/main.75447600.css.map",
+    "main.c994b6f4.js.map": "/FilmyVerse/static/js/main.c994b6f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75447600.css",
+    "static/js/main.c994b6f4.js"
+  ]
+}
